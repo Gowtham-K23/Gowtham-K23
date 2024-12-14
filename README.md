@@ -27,7 +27,7 @@
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Gowtham-K23&theme=algolia&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
-[![Most Languages used](https://github-readme-stats.vercel.app/api/top-langs/?username=Gowtham-K23&theme=algolia)](https://github.com/Gowtham-K23/github-readme-stats)
+![Gowtham-K23's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Gowtham-K23&theme=algolia&show_icons=true&hide_border=false&layout=compact)
 
 ### LeetCode stats
 [![Leetcode Stats](https://leetcard.jacoblin.cool/K_Gowtham?theme=radical&font=Solway&ext=heatmap)](https://leetcode.com/u/K_Gowtham/)<br/>
