@@ -7,8 +7,10 @@
 - Currently working on Java and its framwork
 - I’m looking for help with Placements
 - Ask me about Tech
-- Drop a Line
-<br />[<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />](https://x.com/GowthamK_23?t=ER05gNrMvobWAa4_lLP2UA&s=09) [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/gowtham-k-b40480264?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) [<img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/>](https://www.instagram.com/gowthamk_23/profilecard/?igsh=NmttM3V1MmttODF3)
+
+
+### Drop a Line
+<br />[<img width="50" height="50" src="https://img.icons8.com/color/48/linkedin.png" alt="linkedin"/>](https://www.linkedin.com/in/gowtham-k-b40480264?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) [<img width="50" height="50" src="https://img.icons8.com/fluency/48/instagram-new.png" alt="instagram-new"/>](https://www.instagram.com/gowthamk_23/profilecard/?igsh=NmttM3V1MmttODF3) [<img width="50" height="50" src="https://img.icons8.com/ios/50/twitterx--v1.png" alt="twitterx--v1"/>](https://x.com/GowthamK_23?t=ER05gNrMvobWAa4_lLP2UA&s=09) [<img width="50" height="50" src="https://img.icons8.com/3d-fluency/94/mail.png" alt="mail"/>](mailto:gowthamk2394@gmail.com)
 
 
 ### Bringing ideas to life with
@@ -23,7 +25,7 @@
 ### GitHub Stats
 [![Gowtham's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gowtham-K23&theme=algolia)](https://github.com/Gowtham-K23/github-readme-stats)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Gowtham-K23&theme=algolia&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Gowtham-K23&theme=algolia&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
 [![Most Languages Used](https://github-readme-stats.vercel.app/api/top-langs/?username=Gowtham-K23&theme=algolia)](https://github.com/Gowtham-K23/github-readme-stats)
 
@@ -32,4 +34,4 @@
 
 
 ### GitHub Contribution Graph
-[![Gowtham's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Gowtham-K23&bg_color=050514&color=00e0f0&line=141437&point=40e0d0&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Gowtham's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Gowtham-K23&bg_color=050514&color=00f0f0&line=141432&point=40e0d0&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
