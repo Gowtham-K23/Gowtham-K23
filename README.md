@@ -10,7 +10,7 @@
 
 
 ### Drop a Line
-<br />[<img width="50" height="50" src="https://img.icons8.com/color/48/linkedin.png" alt="linkedin"/>](https://www.linkedin.com/in/gowtham-k-b40480264?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) [<img width="50" height="50" src="https://img.icons8.com/fluency/48/instagram-new.png" alt="instagram-new"/>](https://www.instagram.com/gowthamk_23/profilecard/?igsh=NmttM3V1MmttODF3) [<img width="50" height="50" src="https://img.icons8.com/ios/50/twitterx--v1.png" alt="twitterx--v1"/>](https://x.com/GowthamK_23?t=ER05gNrMvobWAa4_lLP2UA&s=09) [<img width="50" height="50" src="https://img.icons8.com/3d-fluency/94/mail.png" alt="mail"/>](mailto:gowthamk2394@gmail.com)
+<br />[<img width="50" height="50" src="https://img.icons8.com/color/48/linkedin.png" alt="linkedin"/>](https://www.linkedin.com/in/gowtham-k-b40480264?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) [<img width="50" height="50" src="https://img.icons8.com/fluency/48/instagram-new.png" alt="instagram-new"/>](https://www.instagram.com/gowthamk_23/profilecard/?igsh=NmttM3V1MmttODF3) [<img width="48" height="48" src="https://img.icons8.com/fluency/48/twitterx--v2.png" alt="twitterx--v2"/>](https://x.com/GowthamK_23?t=ER05gNrMvobWAa4_lLP2UA&s=09) [<img width="50" height="50" src="https://img.icons8.com/3d-fluency/94/mail.png" alt="mail"/>](mailto:gowthamk2394@gmail.com)
 
 
 ### Bringing ideas to life with
